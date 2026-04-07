@@ -1,6 +1,0 @@
-streamlit
-pandas
-PyPDF2
-textblob
-plotly
-nltk
